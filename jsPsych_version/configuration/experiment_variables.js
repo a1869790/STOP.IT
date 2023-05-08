@@ -62,7 +62,7 @@ var MAXRT = 1250; // fixed maximum reaction time
 var SSD = 200;    // start value for the SSD tracking procedure; will be updated throughout the experiment
 var SSDstep = 50; // step size of the SSD tracking procedure; this is also the lowest possible SSD
 var iFBT = 750;   // immediate feedback interval (during the practice phase)
-var bFBT = 15000; // break interval between blocks
+var bFBT = 10000; // break interval between blocks
 
 
 // ----- CUSTOMISE INPUT/OUTPUT VARIABLES -----
